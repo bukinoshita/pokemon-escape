@@ -1,6 +1,6 @@
 {
   "name": "pokemon-escape",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Check if Pokemon flee from battle",
   "main": "index.js",
   "repository": "https://github.com/bukinoshita/pokemon-escape.git",
@@ -9,7 +9,14 @@
   "scripts": {
     "test": "xo && ava"
   },
-  "keywords": ["pokemon", "pokeball", "flee", "rate", "probability", "escape"],
+  "keywords": [
+    "pokemon",
+    "pokeball",
+    "flee",
+    "rate",
+    "probability",
+    "escape"
+  ],
   "dependencies": {
     "define-probability": "^0.0.1"
   },
