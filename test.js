@@ -1,8 +1,6 @@
-'use strict'
-
 import test from 'ava'
 import m from './'
 
-test(t => {
+test('escape', t => {
   t.true(m(100))
 })
